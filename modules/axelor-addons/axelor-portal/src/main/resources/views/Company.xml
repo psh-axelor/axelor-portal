@@ -15,6 +15,47 @@
 					<field name="stripeCustomerId" />
 					<field name="aboutPageHtml" />
 					<field name="showPricesOnEshop" />
+
+					<!-- New fields -->
+
+					<field name="reference" />
+					<field name="name" />
+					<field name="orderMailSubject" />
+					<field name="orderMailContent" />
+					<field name="quotationMailSubject" />
+					<field name="quotationMailContent" />
+					<field name="invoiceMailSubject" />
+					<field name="invoiceMailContent" />
+					<field name="creditMailSubject" />
+					<field name="creditMailContent" />
+					<field name="advanceMailSubject" />
+					<field name="advanceMailContent" />
+					<field name="invoiceReminderMailSubject" />
+					<field name="invoiceReminderMailContent" />
+					<field name="address" />
+					<field name="footer" />
+					<field name="description" />
+					<field name="type" />
+					<field name="customerDelivery" />
+					<field name="priceDisplayedSelect" />
+					<field name="advanceSalesProductName" />
+					<field name="reasonForNotPayOnline" />
+					<field name="stripeAccountId" />
+					<field name="stripeAccountAccessToken" />
+					<field name="stripeAccountPublishableKey" />
+					<field name="stripeCustomerId" />
+					<field name="createInvoiceFromSelect" />
+					<field name="authorizedPayment" />
+					<field name="paypalEmailId" />
+					<field name="aboutPageHtml" />
+					<field name="paymentLabel" />
+					<field name="legalMentions" />
+					<field name="siren" />
+					<field name="company" />
+					<field name="industry" />
+					<field name="termsQuotations" />
+					<field name="termsOrders" />
+					<field name="termsInvoices" />
 				</panel>
 			</insert>
 		</extend>
