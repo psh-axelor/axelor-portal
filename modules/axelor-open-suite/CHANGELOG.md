@@ -1,7 +1,7 @@
 # Changelog
 ## [Unreleased 5.3.1]
 ## Improvements
-- InvoiceLine: add fields in advanced search.
+- InvoiceLine: add fields in advanced search. __parent__
 - LEAVE REQUEST : Allow sending a leave request in the past.
 - CUSTOMER INFORMATIONS : Indicate that Payment delay is in days
 - INVOICES DASHBOARD: Turnover is now calculated using both sales and assets
