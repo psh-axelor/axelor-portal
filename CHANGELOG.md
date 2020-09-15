@@ -1,7 +1,7 @@
 # Changelog
 ## [5.3.0] - 2020-02-25
 ## Features
-- Add Pack Feature in sale order.(__parent__)
+- Add Pack Feature in sale order. __ parent__
 - Remove Pack Feature from Product.
 - FLEET: Manage rental cars and minor fixes.
 - Studio: New features - Label with color, multiline string, grid column sequence, form width, spacer and order by properties.
